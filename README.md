@@ -1,4 +1,4 @@
-# omicR_linux
+# omicR_linux command line
 omicR creates fasta files, downloads genomes from NCBI using the refseq number, creates databases to run BLAST+, runs BLAST+ and filters these results to obtain the best match per sequence.  These scripts can be used to run BLAST alignment of short-read (DArTseq data) and long-read sequences (Illumina, PacBio… etc). You can use reference genomes from NCBI, or any other genetic sequence that you would like to use as reference. 
 
 Introduction
