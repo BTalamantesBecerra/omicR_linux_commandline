@@ -24,3 +24,6 @@ If you are running omicR with an HPC computer, it likely that you know how to us
 The required input BLAST command line to run this filtering script is:
 
 blastn -db [ ] -query [ ] -out [ ] -word_size [ ] -perc_identity [ ] -num_threads [ ] -outfmt ' 6 qseqid sacc stitle qseq sseq nident mismatch pident length evalue bitscore qstart qend sstart send gapopen gaps qlen slen’
+
+
+For usage, please refer to the file "OmicR_User_guide.pdf" available in this repository.
